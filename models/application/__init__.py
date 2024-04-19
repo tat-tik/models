@@ -1,0 +1,1 @@
+print("импорт пакета application")
